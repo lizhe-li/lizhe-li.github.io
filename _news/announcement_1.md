@@ -2,7 +2,7 @@
 layout: post
 title: First Experience Academic Conference.
 date: 2024-1-18 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
