@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-6-20 15:59:00-0400
+title: First Experience Academic Conference.
+date: 2024-1-18 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I graduated from Zhengzhou University.
+Participated in the First Interdisciplinary Communication Conference on Research Methods and Their Applications in Health and Social Sciences organized by Peking University and shared papers. 
